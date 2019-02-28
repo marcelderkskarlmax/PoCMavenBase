@@ -1,0 +1,4 @@
+[submodule "PocMiddle"]
+	path = PocMiddle
+	url = git@github.com:marcelderkskarlmax/PocMiddle.git
+	branch = master
